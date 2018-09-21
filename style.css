@@ -155,7 +155,7 @@ body { font-family: 'Open Sans', sans-serif }
 #call-to-action,
 #call-to-action-2,
 #testimonial { position: relative }
-.cta-bg { background-image: url(img/riffle2.jpg) }
+.cta-bg { background-image: url(img/riffle.jpg) }
 .cta-text { color: #fff }
 .single-service {
     margin-bottom: 50px;
